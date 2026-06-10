@@ -746,4 +746,5 @@ Controlled by `CORS_ORIGIN` in `.env`:
 
 > ⚠️ When `CORS_ORIGIN=*`, the `credentials` header is automatically disabled (browser spec requirement). If you need `credentials: true` (cookies/auth headers), use a specific origin instead.
 #   t i c k e t _ s u p p o r t _ a i _ n o d e  
+ #   t i c k e t _ s u p p o r t _ a i _ n o d e  
  
